@@ -19,6 +19,7 @@ Submit your request by adding the follwoing details:
 - Event_Date:
 - Will_You_Pay_Expenses: 
 ### last option is a boolean "yes" or no"
+- Contact_Details:
 ```
 
 
