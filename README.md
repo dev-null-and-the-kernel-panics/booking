@@ -9,19 +9,17 @@ We only play at the following type of events.
 - Linux / DevOps Conferences
 - Technology Fests
 - Contributor Summits
-- Global launch Parties of crappy phones
+- Global launch parties of crappy phones
 
-Submit your request by adding the follwoing details:
+Submit your request by adding the following details:
 ```
 ---
 - Event_Type: 
 - Event_Location:
 - Event_Date:
+- Contact_Details:
 - Will_You_Pay_Expenses: 
 ### last option is a boolean "yes" or no"
-- Contact_Details:
 ```
-
-
 
 
